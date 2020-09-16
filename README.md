@@ -1,12 +1,12 @@
 # Early detection of wildlife morbidity and mortality through an event-based surveillance system
 
-Terra Kelly1†*, Pranav Pandit2†, Nicole Carion3, Devin Dombrowski4, Krysta Rogers3, Stella McMillin3, Deana Clifford3, Anthony Riberi5, Michael Ziccardi1, Erica Donnelly-Greenan6, Christine Johnson2  
-1Karen C. Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, CA  
-2EpiCenter for Disease Dynamics, School of Veterinary Medicine, University of California, Davis, CA  
-3Wildlife Investigations Laboratory, California Department of Fish and Wildlife, Rancho Cordova, CA  
-4Wild Neighbors Database Project, Middletown, CA  
+Terra Kelly<sup>1†</sup>*, Pranav Pandit<sup>2†</sup>, Nicole Carion<sup>3</sup>, Devin Dombrowski<sup>4</sup>, Krysta Rogers<sup>3</sup>, Stella McMillin<sup>3</sup>, Deana Clifford<sup>3</sup>, Anthony Riberi<sup>5</sup>, Michael Ziccardi<sup>1</sup>, Erica Donnelly-Greenan<sup>6</sup>, Christine Johnson<sup>2</sup>  
+<sup>1</sup>Karen C. Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, CA  
+<sup>2</sup>EpiCenter for Disease Dynamics, School of Veterinary Medicine, University of California, Davis, CA  
+<sup>3</sup>Wildlife Investigations Laboratory, California Department of Fish and Wildlife, Rancho Cordova, CA  
+<sup>4</sup>Wild Neighbors Database Project, Middletown, CA  
 5Y3TI, Lafayette, CA  
-6 Moss Landing Marine Laboratories/BeachCOMBERS Program, San Jose State University  
+<sup>6</sup>Moss Landing Marine Laboratories/BeachCOMBERS Program, San Jose State University  
 †These authors contributed equally.   
 *Author for correspondence: Terra Kelly, e-mail: trkelly@ucdavis.edu  
 
