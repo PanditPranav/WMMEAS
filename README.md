@@ -1,6 +1,7 @@
 # Early detection of wildlife morbidity and mortality through an event-based surveillance system
 
-Terra Kelly<sup>1†</sup>*, Pranav Pandit<sup>2†</sup>, Nicole Carion<sup>3</sup>, Devin Dombrowski<sup>4</sup>, Krysta Rogers<sup>3</sup>, Stella McMillin<sup>3</sup>, Deana Clifford<sup>3</sup>, Anthony Riberi<sup>5</sup>, Michael Ziccardi<sup>1</sup>, Erica Donnelly-Greenan<sup>6</sup>, Christine Johnson<sup>2</sup>  
+Terra Kelly<sup>1†</sup>*, Pranav Pandit<sup>2†</sup>, Nicole Carion<sup>3</sup>, Devin Dombrowski<sup>4</sup>, Krysta Rogers<sup>3</sup>, Stella McMillin<sup>3</sup>, Deana Clifford<sup>3</sup>, Anthony Riberi<sup>5</sup>, Michael Ziccardi<sup>1</sup>, Erica Donnelly-Greenan<sup>6</sup>, Christine Johnson<sup>2</sup>
+
 <sup>1</sup>Karen C. Drayer Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, CA  
 <sup>2</sup>EpiCenter for Disease Dynamics, School of Veterinary Medicine, University of California, Davis, CA  
 <sup>3</sup>Wildlife Investigations Laboratory, California Department of Fish and Wildlife, Rancho Cordova, CA  
