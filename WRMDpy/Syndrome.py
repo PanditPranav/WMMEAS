@@ -6,7 +6,7 @@
 from __future__ import division
 import os as os
 get_ipython().magic(u'matplotlib inline')
-get_ipython().magic(u'run Settings.py')
+#get_ipython().magic(u'run Settings.py')
 import re
 from statsmodels.tsa.stattools import adfuller, acf, pacf
 from statsmodels.tsa.arima_model import ARIMA
@@ -16,7 +16,7 @@ import matplotlib.pylab as plt
 from matplotlib.pylab import rcParams
 from statsmodels.tsa.seasonal import seasonal_decompose
 
-from itertools import izip, count
+from itertools import count
 import matplotlib.pyplot as plt
 from numpy import linspace, loadtxt, ones, convolve
 import numpy as np
